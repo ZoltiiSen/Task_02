@@ -1,0 +1,9 @@
+html, body, .sec {
+  height: 100%;
+}
+.sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 150px;
+}
